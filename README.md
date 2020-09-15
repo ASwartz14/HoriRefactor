@@ -1,4 +1,4 @@
-# HoriRefactor Homework Week 1
+# HoriRefactor 
 
 ## Description
 Refactored Horiseon website to be more accessible. Added proper syntax and alt attribute for the images. Fixed CSS to match, cleaned up and condensed. 
